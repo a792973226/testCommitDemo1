@@ -7,6 +7,6 @@ package com.huizhi.yun;
  */
 public class testBranch {
 	public static void main(String[] args) {
-		
+		System.out.println("测试分支提交主干代码模拟冲突");
 	}
 }
